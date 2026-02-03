@@ -1,0 +1,11 @@
+prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library 
+exec_prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library 
+libdir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/lib 
+includedir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.9 
+Description: libXML library version2. 
+Requires: 
+Libs: -LD:/Eakem/Learning ML and DS/Learning ML/env/Library/lib -lxml2 -liconv -lz 
+Cflags: -ID:/Eakem/Learning ML and DS/Learning ML/env/Library/include/libxml2 -ID:/Eakem/Learning ML and DS/Learning ML/env/Library/include 

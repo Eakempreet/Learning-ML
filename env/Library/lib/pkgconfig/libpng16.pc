@@ -1,0 +1,12 @@
+prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library
+exec_prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library
+libdir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/lib
+includedir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.54
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}

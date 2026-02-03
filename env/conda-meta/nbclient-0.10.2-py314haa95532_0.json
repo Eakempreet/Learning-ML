@@ -1,0 +1,254 @@
+{
+  "name": "nbclient",
+  "version": "0.10.2",
+  "build": "py314haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "nbclient-0.10.2-py314haa95532_0.conda",
+  "md5": "f78777929bdb2ba65855ed794e4a9c1b",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/nbclient-0.10.2-py314haa95532_0.conda",
+  "sha256": "3c405b780e6101e0c7f19f932cff0677288e137c9d0a9d1be05050e0a7684021",
+  "depends": [
+    "jupyter_client >=6.1.12",
+    "jupyter_core >=4.12,!=5.0.*",
+    "nbformat >=5.1",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314",
+    "traitlets >=5.4"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1763635212000,
+  "size": 84821,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\nbclient-0.10.2-py314haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\nbclient-0.10.2-py314haa95532_0",
+  "files": [
+    "Lib/site-packages/nbclient-0.10.2.dist-info/INSTALLER",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/METADATA",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/RECORD",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/REQUESTED",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/WHEEL",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/direct_url.json",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/entry_points.txt",
+    "Lib/site-packages/nbclient-0.10.2.dist-info/licenses/LICENSE",
+    "Lib/site-packages/nbclient/__init__.py",
+    "Lib/site-packages/nbclient/__pycache__/__init__.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/_version.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/cli.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/client.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-314.pyc",
+    "Lib/site-packages/nbclient/__pycache__/util.cpython-314.pyc",
+    "Lib/site-packages/nbclient/_version.py",
+    "Lib/site-packages/nbclient/cli.py",
+    "Lib/site-packages/nbclient/client.py",
+    "Lib/site-packages/nbclient/exceptions.py",
+    "Lib/site-packages/nbclient/jsonutil.py",
+    "Lib/site-packages/nbclient/output_widget.py",
+    "Lib/site-packages/nbclient/py.typed",
+    "Lib/site-packages/nbclient/util.py",
+    "Scripts/jupyter-execute-script.py",
+    "Scripts/jupyter-execute.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0201da18360094d3817a24e8ffe065af04d75e877350837f6132c202a125a4a6",
+        "size_in_bytes": 8263,
+        "sha256_in_prefix": "0201da18360094d3817a24e8ffe065af04d75e877350837f6132c202a125a4a6"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c65d8082bbf3bb15e2f6e14dd032347b3e7928adcfb677c6d864be75c90cb05f",
+        "size_in_bytes": 1861,
+        "sha256_in_prefix": "c65d8082bbf3bb15e2f6e14dd032347b3e7928adcfb677c6d864be75c90cb05f"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87,
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "02a9a49485c717c9f7bc910086698d4b3c17bf8e999eb51d23b34c83323d0502",
+        "size_in_bytes": 96,
+        "sha256_in_prefix": "02a9a49485c717c9f7bc910086698d4b3c17bf8e999eb51d23b34c83323d0502"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b072509d4055a242b8e8ed8f2be835586f500214e6697cb77f0b2143fb7b4c50",
+        "size_in_bytes": 54,
+        "sha256_in_prefix": "b072509d4055a242b8e8ed8f2be835586f500214e6697cb77f0b2143fb7b4c50"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient-0.10.2.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "83c56c2de2a2a71227d0a98fd246049e6320c094d03e2d560c7c0c0b3ec576e9",
+        "size_in_bytes": 1534,
+        "sha256_in_prefix": "83c56c2de2a2a71227d0a98fd246049e6320c094d03e2d560c7c0c0b3ec576e9"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "90e928c78ae2103d36dd5eb68810c930a6c8d55707dcb33a54445a5fd97abfa7",
+        "size_in_bytes": 164,
+        "sha256_in_prefix": "90e928c78ae2103d36dd5eb68810c930a6c8d55707dcb33a54445a5fd97abfa7"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "26015d818beeb877892b2faa01a0602bfced810733067d965b26b205166fe64e",
+        "size_in_bytes": 315,
+        "sha256_in_prefix": "26015d818beeb877892b2faa01a0602bfced810733067d965b26b205166fe64e"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/_version.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "737f3462190fcdad168d06b9ad15260bec35c1cb25e5f377cef49812d545b1bd",
+        "size_in_bytes": 845,
+        "sha256_in_prefix": "737f3462190fcdad168d06b9ad15260bec35c1cb25e5f377cef49812d545b1bd"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/cli.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "c1e3aa0a48398da19cd52e184c26a73be224ed9a059aa8817391f018a22bc7df",
+        "size_in_bytes": 8615,
+        "sha256_in_prefix": "c1e3aa0a48398da19cd52e184c26a73be224ed9a059aa8817391f018a22bc7df"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/client.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b8d04fc7601f6c9fe71ce38fc63ef13c7e879d7a841d9ce36559235f9ab834f",
+        "size_in_bytes": 62973,
+        "sha256_in_prefix": "1b8d04fc7601f6c9fe71ce38fc63ef13c7e879d7a841d9ce36559235f9ab834f"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "c43e8f4f0b2475237d411790994951999d369e215ce0b5797e85d7ccc0d14b2a",
+        "size_in_bytes": 6712,
+        "sha256_in_prefix": "c43e8f4f0b2475237d411790994951999d369e215ce0b5797e85d7ccc0d14b2a"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "239c60966e79a4b0b02013ddaa678d0e9decbd5ce861c1116482cddb967acb14",
+        "size_in_bytes": 4614,
+        "sha256_in_prefix": "239c60966e79a4b0b02013ddaa678d0e9decbd5ce861c1116482cddb967acb14"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "fab88315cdbbbe0b86d2e1178652627cbbbd98ce0a3b880b418be31b641e70a5",
+        "size_in_bytes": 7281,
+        "sha256_in_prefix": "fab88315cdbbbe0b86d2e1178652627cbbbd98ce0a3b880b418be31b641e70a5"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/util.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd270eaa79761086c5572f0efc79e631034b89a5eddabea3c1cd349d60ad2b96",
+        "size_in_bytes": 985,
+        "sha256_in_prefix": "fd270eaa79761086c5572f0efc79e631034b89a5eddabea3c1cd349d60ad2b96"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/_version.py",
+        "path_type": "hardlink",
+        "sha256": "22cf6eafaa68450a2bdda27d35502345b24ace38c93c60e67b88d99d30754b63",
+        "size_in_bytes": 463,
+        "sha256_in_prefix": "22cf6eafaa68450a2bdda27d35502345b24ace38c93c60e67b88d99d30754b63"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/cli.py",
+        "path_type": "hardlink",
+        "sha256": "e1979d228acc6ed545caa9b0961817c7efc5db0dbe6addf479fedcef359cc333",
+        "size_in_bytes": 6781,
+        "sha256_in_prefix": "e1979d228acc6ed545caa9b0961817c7efc5db0dbe6addf479fedcef359cc333"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/client.py",
+        "path_type": "hardlink",
+        "sha256": "3a30187449d2fea6ce6063e79cbaa0edf1478947099a8b66d8d2fb30a0418971",
+        "size_in_bytes": 49833,
+        "sha256_in_prefix": "3a30187449d2fea6ce6063e79cbaa0edf1478947099a8b66d8d2fb30a0418971"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "de3ead9b49495404991d3a38727a6fa81c4df45284a641d4698c831bb0ab2236",
+        "size_in_bytes": 4065,
+        "sha256_in_prefix": "de3ead9b49495404991d3a38727a6fa81c4df45284a641d4698c831bb0ab2236"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/jsonutil.py",
+        "path_type": "hardlink",
+        "sha256": "58f2610ee8dbabcb42f28d6c863e31a206a76420487880dc90bd2e39039fac96",
+        "size_in_bytes": 4612,
+        "sha256_in_prefix": "58f2610ee8dbabcb42f28d6c863e31a206a76420487880dc90bd2e39039fac96"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/output_widget.py",
+        "path_type": "hardlink",
+        "sha256": "83b10ac8abbf8ccefa3999d0de79eaa4339d4ebd308d085dee25491b1f81a3c2",
+        "size_in_bytes": 4527,
+        "sha256_in_prefix": "83b10ac8abbf8ccefa3999d0de79eaa4339d4ebd308d085dee25491b1f81a3c2"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/util.py",
+        "path_type": "hardlink",
+        "sha256": "6d6cd39ca1d506837d88fd6b5d8c821a6eeac824294500f00cee0506d8e313b7",
+        "size_in_bytes": 544,
+        "sha256_in_prefix": "6d6cd39ca1d506837d88fd6b5d8c821a6eeac824294500f00cee0506d8e313b7"
+      },
+      {
+        "_path": "Scripts/jupyter-execute-script.py",
+        "path_type": "hardlink",
+        "sha256": "54fd491cb4adee65f8e3d365a2e6b2b63377d7677b10d25d3faf0b7b4cc1a7f6",
+        "size_in_bytes": 206,
+        "sha256_in_prefix": "54fd491cb4adee65f8e3d365a2e6b2b63377d7677b10d25d3faf0b7b4cc1a7f6"
+      },
+      {
+        "_path": "Scripts/jupyter-execute.exe",
+        "path_type": "hardlink",
+        "sha256": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "size_in_bytes": 54032,
+        "sha256_in_prefix": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\nbclient-0.10.2-py314haa95532_0",
+    "type": 1
+  }
+}

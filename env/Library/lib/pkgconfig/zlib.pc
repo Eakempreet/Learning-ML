@@ -1,0 +1,13 @@
+prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library
+exec_prefix=D:/Eakem/Learning ML and DS/Learning ML/env/Library
+libdir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/lib
+sharedlibdir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/lib
+includedir=D:/Eakem/Learning ML and DS/Learning ML/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

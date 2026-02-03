@@ -1,0 +1,242 @@
+{
+  "name": "json5",
+  "version": "0.12.1",
+  "build": "py314haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "json5-0.12.1-py314haa95532_0.conda",
+  "md5": "e874ace739f15e0f924f19f818f386fe",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/json5-0.12.1-py314haa95532_0.conda",
+  "sha256": "d7657571aca371f203025f6e9ad78ea4d03639819bc3fb80988fa3891ba34dd8",
+  "depends": [
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1763718696000,
+  "size": 98119,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\json5-0.12.1-py314haa95532_0.conda",
+  "extracted_package_dir": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\json5-0.12.1-py314haa95532_0",
+  "files": [
+    "Lib/site-packages/json5-0.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/json5-0.12.1.dist-info/METADATA",
+    "Lib/site-packages/json5-0.12.1.dist-info/RECORD",
+    "Lib/site-packages/json5-0.12.1.dist-info/REQUESTED",
+    "Lib/site-packages/json5-0.12.1.dist-info/WHEEL",
+    "Lib/site-packages/json5-0.12.1.dist-info/direct_url.json",
+    "Lib/site-packages/json5-0.12.1.dist-info/entry_points.txt",
+    "Lib/site-packages/json5-0.12.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/json5-0.12.1.dist-info/top_level.txt",
+    "Lib/site-packages/json5/__init__.py",
+    "Lib/site-packages/json5/__main__.py",
+    "Lib/site-packages/json5/__pycache__/__init__.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/__main__.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/host.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/lib.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/parser.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/tool.cpython-314.pyc",
+    "Lib/site-packages/json5/__pycache__/version.cpython-314.pyc",
+    "Lib/site-packages/json5/host.py",
+    "Lib/site-packages/json5/lib.py",
+    "Lib/site-packages/json5/parser.py",
+    "Lib/site-packages/json5/py.typed",
+    "Lib/site-packages/json5/tool.py",
+    "Lib/site-packages/json5/version.py",
+    "Scripts/pyjson5-script.py",
+    "Scripts/pyjson5.exe"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0c032b0850aa4b425da9b968bc6f7841f0c010898625b18c616114daba335d5b",
+        "size_in_bytes": 37055,
+        "sha256_in_prefix": "0c032b0850aa4b425da9b968bc6f7841f0c010898625b18c616114daba335d5b"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b516ff099bbf366f54b10f71fca9cf37d335179b047ede6cbf5da6e62472b4f5",
+        "size_in_bytes": 1727,
+        "sha256_in_prefix": "b516ff099bbf366f54b10f71fca9cf37d335179b047ede6cbf5da6e62472b4f5"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "size_in_bytes": 91,
+        "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "211f8b91f30790f04478036cc02954ee5ab3ab021332fb28c4da078238271bdb",
+        "size_in_bytes": 83,
+        "sha256_in_prefix": "211f8b91f30790f04478036cc02954ee5ab3ab021332fb28c4da078238271bdb"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "1d619a5976f674362306c6a139b9d786045c9902699457d2df6a53f4d4e13aac",
+        "size_in_bytes": 44,
+        "sha256_in_prefix": "1d619a5976f674362306c6a139b9d786045c9902699457d2df6a53f4d4e13aac"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e2127cbdb467d31a1cbbc3d41b24c7fda12f92fae47dda1b565e7e0b2bc37c7c",
+        "size_in_bytes": 14728,
+        "sha256_in_prefix": "e2127cbdb467d31a1cbbc3d41b24c7fda12f92fae47dda1b565e7e0b2bc37c7c"
+      },
+      {
+        "_path": "Lib/site-packages/json5-0.12.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e25aac985a11720fb52b48547ae21bc5804e77ee34060c3ca45f41759c240bb9",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "e25aac985a11720fb52b48547ae21bc5804e77ee34060c3ca45f41759c240bb9"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2dae24fdff20bfaea84111df4ce4999b2d111afcd81428e5d5ecc02c8f968e75",
+        "size_in_bytes": 947,
+        "sha256_in_prefix": "2dae24fdff20bfaea84111df4ce4999b2d111afcd81428e5d5ecc02c8f968e75"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "cac1e2cf01a09a901477f1a4a25423882c10d905b98e3095f36cd071ed98a981",
+        "size_in_bytes": 706,
+        "sha256_in_prefix": "cac1e2cf01a09a901477f1a4a25423882c10d905b98e3095f36cd071ed98a981"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "d24975ab1576a35db0a54f990a6e75a6809948e0c1844f005105a293ff1cbb2d",
+        "size_in_bytes": 508,
+        "sha256_in_prefix": "d24975ab1576a35db0a54f990a6e75a6809948e0c1844f005105a293ff1cbb2d"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/__main__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "f32baae377d6d66ee408e516dbc300817c6dc952dc62c6b24c7b4c8f68512844",
+        "size_in_bytes": 313,
+        "sha256_in_prefix": "f32baae377d6d66ee408e516dbc300817c6dc952dc62c6b24c7b4c8f68512844"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/host.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "f6762b07f2b7248a0e4c83c2f3786c22db29f41644ac1985d6795846385f43d0",
+        "size_in_bytes": 2906,
+        "sha256_in_prefix": "f6762b07f2b7248a0e4c83c2f3786c22db29f41644ac1985d6795846385f43d0"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/lib.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "376b87cbab8df3ae324efa76240f05f237af0f8af60bb8692e248c1f8cb99ede",
+        "size_in_bytes": 43179,
+        "sha256_in_prefix": "376b87cbab8df3ae324efa76240f05f237af0f8af60bb8692e248c1f8cb99ede"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/parser.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "4883db6cad99bb79da673c2319c8ae2fc9a70f73bed12cee6492774417b81033",
+        "size_in_bytes": 86524,
+        "sha256_in_prefix": "4883db6cad99bb79da673c2319c8ae2fc9a70f73bed12cee6492774417b81033"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/tool.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed894da86b2fd20ee316b9a4b48cf78bd397af92283f0f53b48ff7832bf2b83d",
+        "size_in_bytes": 6972,
+        "sha256_in_prefix": "ed894da86b2fd20ee316b9a4b48cf78bd397af92283f0f53b48ff7832bf2b83d"
+      },
+      {
+        "_path": "Lib/site-packages/json5/__pycache__/version.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "8bbf53b0febfd79a1d36cb77da0b72369e4633a7135a5d6817e9d1f4aab455ce",
+        "size_in_bytes": 182,
+        "sha256_in_prefix": "8bbf53b0febfd79a1d36cb77da0b72369e4633a7135a5d6817e9d1f4aab455ce"
+      },
+      {
+        "_path": "Lib/site-packages/json5/host.py",
+        "path_type": "hardlink",
+        "sha256": "233bd2a40904d8d25bd35bd5cb868dd8847bb6e3a3695916c3808de0952b9dc4",
+        "size_in_bytes": 1512,
+        "sha256_in_prefix": "233bd2a40904d8d25bd35bd5cb868dd8847bb6e3a3695916c3808de0952b9dc4"
+      },
+      {
+        "_path": "Lib/site-packages/json5/lib.py",
+        "path_type": "hardlink",
+        "sha256": "6662b755af00ce07df502a9e7445baf1e0956beecc65e5f7a0a2c333b6d65464",
+        "size_in_bytes": 36024,
+        "sha256_in_prefix": "6662b755af00ce07df502a9e7445baf1e0956beecc65e5f7a0a2c333b6d65464"
+      },
+      {
+        "_path": "Lib/site-packages/json5/parser.py",
+        "path_type": "hardlink",
+        "sha256": "a40a0d37e1b3d0745d0300444d0c24acdc7e70c48fc1fa2d180d3877b42ca741",
+        "size_in_bytes": 36547,
+        "sha256_in_prefix": "a40a0d37e1b3d0745d0300444d0c24acdc7e70c48fc1fa2d180d3877b42ca741"
+      },
+      {
+        "_path": "Lib/site-packages/json5/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "Lib/site-packages/json5/tool.py",
+        "path_type": "hardlink",
+        "sha256": "01ec2e9b3cac89c4dda5aa1c70fd48d580fa3b6fa2bd49523911c85093bbd56e",
+        "size_in_bytes": 5344,
+        "sha256_in_prefix": "01ec2e9b3cac89c4dda5aa1c70fd48d580fa3b6fa2bd49523911c85093bbd56e"
+      },
+      {
+        "_path": "Lib/site-packages/json5/version.py",
+        "path_type": "hardlink",
+        "sha256": "24fa84e7c85f355044fec24823d4fd518bf8bb48a6972d24c3a4919ac4c765a4",
+        "size_in_bytes": 703,
+        "sha256_in_prefix": "24fa84e7c85f355044fec24823d4fd518bf8bb48a6972d24c3a4919ac4c765a4"
+      },
+      {
+        "_path": "Scripts/pyjson5-script.py",
+        "path_type": "hardlink",
+        "sha256": "977f08caaae084057d637fc6dfa03dfba358333ecefc4cba5a58340bf5a9b153",
+        "size_in_bytes": 204,
+        "sha256_in_prefix": "977f08caaae084057d637fc6dfa03dfba358333ecefc4cba5a58340bf5a9b153"
+      },
+      {
+        "_path": "Scripts/pyjson5.exe",
+        "path_type": "hardlink",
+        "sha256": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "size_in_bytes": 54032,
+        "sha256_in_prefix": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Eakempreet Singh\\.conda\\pkgs\\json5-0.12.1-py314haa95532_0",
+    "type": 1
+  }
+}

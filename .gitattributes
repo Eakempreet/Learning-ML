@@ -1,0 +1,4 @@
+* text=auto
+
+# Keep notebooks in LF to avoid noisy diffs
+*.ipynb text eol=lf
